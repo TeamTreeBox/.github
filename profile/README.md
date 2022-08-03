@@ -5,7 +5,7 @@
 __깃허브 메뉴얼(꼭 읽어주세요)__
   
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white=https://github.com/TeamTreeBox/Air_Breeze/blob/main/Github_Manual)](https://github.com/TeamTreeBox/Air_Breeze/blob/main/Github_Manual)
-:arrow_up_small:
+
   
 ## :mortar_board:About Our Team!
 
@@ -22,6 +22,5 @@ __Seungbin Nam__ | `Map Developer`
   
 [![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white=https://www.notion.so/yoyosproject/Ever-Breeze-Project-90be01e5bcd44dc28e3b3bb2f440d772)](https://www.notion.so/yoyosproject/Ever-Breeze-Project-90be01e5bcd44dc28e3b3bb2f440d772)
   
-:arrow_up_small:
 
 </div>
