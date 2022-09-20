@@ -16,11 +16,7 @@ __YoHong Min__ | `Main Director / UIUX Designer`
 __Seungbin Nam__ | `Map Developer / Game System`
 ---
   
-  ## 🔰 Visit Our Notion!  
-#####  Come and Look our Work Flow!
-  
-[![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white=https://www.notion.so/yoyosproject/Ever-Breeze-Project-90be01e5bcd44dc28e3b3bb2f440d772)](https://www.notion.so/yoyosproject/Ever-Breeze-Project-90be01e5bcd44dc28e3b3bb2f440d772)
-  
+ 
 ## 🕹 If You want download this Project
 
 #### Please download the files below
