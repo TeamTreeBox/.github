@@ -1,10 +1,9 @@
 <div align="center">
   
-# :recycle:Team LunchBox:recycle: 
+![EverBreeze_Logo](https://user-images.githubusercontent.com/19919570/191180843-73f274fd-af34-4347-8b7f-ee198bf4a7da.png)
+# 🔳INTRODUCE `EverBreeze`🔳
 
-__깃허브 메뉴얼(꼭 읽어주세요)__
-  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white=https://github.com/TeamTreeBox/Air_Breeze/blob/main/Github_Manual)](https://github.com/TeamTreeBox/Air_Breeze/blob/main/Github_Manual)
+![VS](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=VisualStudio&logoColor=white)              ![C#](https://img.shields.io/badge/C%20Sharp-239120?style=for-the-badge&logo=CSharp&logoColor=white) ![Unity](https://img.shields.io/badge/Unity%203D-222324?style=for-the-badge&logo=Unity&logoColor=white) ![Oculus](https://img.shields.io/badge/Oculus-1C1E20?style=for-the-badge&logo=Oculus&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white) 
 
   
 ## :mortar_board:About Our Team!
