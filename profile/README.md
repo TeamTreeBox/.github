@@ -10,10 +10,10 @@
 
 Name | Rule                                                         
 :---:|:---:
- __HyunMin Lee__ |`Main Director / UI Function` 
-__JiYoon Kang__ | `Enemy AI / Boss AI`
-__YoHong Min__ | `Design Director`
-__Seungbin Nam__ | `Map Developer`
+ __HyunMin Lee__ |`Main Developer / Game System` 
+__JiYoon Kang__ | `Player Sytem / UI System`
+__YoHong Min__ | `Main Director / UIUX Designer`
+__Seungbin Nam__ | `Map Developer / Game System`
 ---
   
   ## 🔰 Visit Our Notion!  
