@@ -12,7 +12,7 @@ Name | Rule
 :---:|:---:
  __HyunMin Lee__ |`Main Developer / Game System` 
 __JiYoon Kang__ | `Player Sytem / UI System`
-__YoHong Min__ | `Main Director / UIUX Designer`
+__YeoHong Min__ | `Main Director / UIUX Designer`
 __Seungbin Nam__ | `Map Developer / Game System`
 ---
   
